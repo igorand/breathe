@@ -66,3 +66,9 @@ body,html {
 	padding-right: 1.75%;
 	border-radius: 20px;
 }
+
+.btn:hover {
+	background-color: #b5eef2;
+	border: 2px solid #a4e6ea;
+
+}
